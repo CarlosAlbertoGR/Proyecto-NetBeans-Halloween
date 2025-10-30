@@ -1,0 +1,12 @@
+/target/
+/build/
+
+/nbproject/private/
+*.log
+*.jar
+*.war
+*.zip
+*.class
+
+.idea/
+.vscode/
